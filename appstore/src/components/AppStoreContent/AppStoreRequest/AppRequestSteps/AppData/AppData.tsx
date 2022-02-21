@@ -8,7 +8,7 @@ import AppRequestStepsButtons
   from '@src/components/AppStoreContent/AppStoreRequest/AppRequestStepsButtons/AppRequestStepsButtons';
 import AppRequestStepsInput
   from '@src/components/AppStoreContent/AppStoreRequest/AppRequestStepsInput/AppRequestStepsInput';
-import { svgIconsURLs } from '@src/shared/constants/constants';
+import { svgIconsURLs } from '/home/gwendal/Applications/Station/constants';
 
 import styles, { IClasses } from './styles';
 
